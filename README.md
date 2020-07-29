@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Nataliia Pimankova
+I am a python developer. 3+ years expirience in Backend Developments
+
+How to reach me:
+
+ e-mail: natalya.pimankova@gmail.com
+ 
+ linkedin: https://www.linkedin.com/in/nataliia-pimankova/
+ 
 <!--
 **natalya2487/natalya2487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
