@@ -2,6 +2,9 @@
 
 My name is Nataliia Pimankova
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 I am a python developer. 3+ years expirience in Backend Developments
 
 How to reach me:
